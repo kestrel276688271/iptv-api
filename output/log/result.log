@@ -1,1 +1,2 @@
-Name: 浙江卫视, URL: http://112.46.85.60:8009/hls/34/index.m3u8, IPv_Type: ipv4, Location: 中国-陕西-咸阳, ISP: 移动, Date: None, Delay: 10631 ms, Speed: 0.02 M/s, Resolution: None
+Name: 广东卫视, URL: http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 6 ms, Speed: 19.00 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 4 ms, Speed: 19.68 M/s, Resolution: None
