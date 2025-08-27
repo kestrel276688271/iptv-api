@@ -1,3 +1,2 @@
-Name: 广东卫视, URL: http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 86 ms, Speed: 1.12 M/s, Resolution: None
-Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 87 ms, Speed: 1.12 M/s, Resolution: None
-Name: 北京卫视, URL: http://39.150.96.141:65535/tsfile/live/0122_1.m3u8, IPv_Type: ipv4, Location: 中国-河南-驻马店, ISP: 移动, Date: None, Delay: 10151 ms, Speed: 0.05 M/s, Resolution: None
+Name: 广东卫视, URL: http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 6 ms, Speed: 16.01 M/s, Resolution: None
+Name: 北京卫视, URL: http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 6 ms, Speed: 17.10 M/s, Resolution: None
