@@ -1,8 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-07 06:17:23,http://111.43.126.240:9003/hls/14/index.m3u8
-
-📺央视频道,#genre#
-CCTV-2,http://111.43.126.240:9003/hls/14/index.m3u8
+2025-09-07 18:54:06,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
