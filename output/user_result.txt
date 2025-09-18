@@ -1,3 +1,6 @@
 🕘️更新时间,#genre#
-2025-09-18 18:21:52,url
+2025-09-19 06:18:38,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
+📡卫视频道,#genre#
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
